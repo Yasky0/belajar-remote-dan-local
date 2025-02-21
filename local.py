@@ -1,2 +1,2 @@
 print("Local")
-print("Hello World")
+print("Hello Yasky")
